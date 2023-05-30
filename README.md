@@ -1,2 +1,2 @@
 # MarsBux-updated
-Updated version of the MarsBux source including wallets for Ubuntu, Windows and Mac OS
+Updated version of the MarsBux cryptocurrency source including wallets for Ubuntu, Windows and Mac OS.
